@@ -50,8 +50,9 @@ letter-spacing: 0.864px;
 }
 /* page-2 start */
 .page-2 {
-    padding: 10%;
-    background-color: rgb(210, 210, 210);
+    /* padding: 30%; */
+    background-color: rgb(238, 235, 235);
+    height: 480px;
 }
 .page-2 h3{
 width: 138px;
@@ -71,9 +72,46 @@ line-height: 20px;
 text-align: center;
 letter-spacing: 0.384px;
 }
+.page-2 h2 {
+    margin-top: 80px;
+}
 
 
 /* page-2 end */
+#komanda {
+    margin-top: 83px;
+}
+#p {
+width: 1170px;
+height: 41px;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.384px;
+text-align: center;
+color: #000000;
+margin-top: 41px;
+}
+.maya {
+    width: 168px;
+    height: 29px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.864px;
+    text-align: center;
+    margin-top: 24px;
+}
+.founder {
+width: 221px;
+height: 20px;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.384px;
+margin-top: 18px;
+}
    
 /* main start */
 /* main end */

@@ -1,0 +1,75 @@
+.nav-item {
+    transition: 100ms;
+}
+
+.nav-item:hover {
+ /* box-shadow: 0 -2px 0 red ; */
+ border-bottom: 2px solid red;
+ margin-top: -2px;
+}
+
+h1 {
+width: 327px;
+font-weight: 600;
+font-size: 50px;
+line-height: 61px;
+text-align: center;
+letter-spacing: 3.75px;
+text-transform: uppercase;
+margin-top: 65px;
+margin-bottom: 25px;
+}
+.page-1 h2 {
+width: 529px;
+height: 28px;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.384px;
+margin-top: 11px;
+margin-bottom: 33px;
+}
+.page-1 p {
+width: 1189px;
+height: 81px;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 0.384px;
+}
+.page-1 h3 {
+width: 127px;
+height: 29px;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.864px;
+}
+/* page-2 start */
+.page-2 h3{
+width: 138px;
+height: 41px;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.384px;
+}
+.page-2 p {
+width: 1104px;
+height: 83px;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.384px;
+}
+
+
+/* page-2 end */
+   
+/* main start */
+/* main end */

@@ -49,6 +49,10 @@ line-height: 29px;
 letter-spacing: 0.864px;
 }
 /* page-2 start */
+.page-2 {
+    padding: 10%;
+    background-color: rgb(210, 210, 210);
+}
 .page-2 h3{
 width: 138px;
 height: 41px;
